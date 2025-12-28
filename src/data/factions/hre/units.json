@@ -183,4 +183,20 @@
     "improvement_cost": 2,
     "are_looters_insubordinate": true
   }
+   "hre_light_artillery_s": {
+    "id": "hre_light_artillery_s",
+    "name": "Lekkie Działa S",
+    "cost": 3,
+    "is_artillery": true,
+    "rank": "bronze",
+    "improvement_cost": 2
+  },
+  "hre_medium_artillery_s": {
+    "id": "hre_medium_artillery_s",
+    "name": "Średnie Działa S",
+    "cost": 5,
+    "is_artillery": true,
+    "rank": "silver",
+    "improvement_cost": 3
+  }
 }
